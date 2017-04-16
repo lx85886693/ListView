@@ -1,7 +1,7 @@
 # ListView
 首先打开主界面，四个按钮对应不同Activity。
 
-![4个按钮](https://github.com/lx85886693/ListView/tree/master/img/1.png)
+![4个按钮](https://github.com/lx85886693/ListView/blob/master/img/1.png)
 
 点击第一个SimpleAdapter。通过创建适配器，绑定数据源，绑定适配器完成适配数据。点击不同的Item时，通过Toast显示不同的Item提示信息。
 
